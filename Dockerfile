@@ -1,4 +1,4 @@
-FROM jenkins/inbound-agent:3355.v388858a_47b_33
+FROM jenkins/inbound-agent:3355.v388858a_47b_33-3
 
 USER root
 RUN apt-get update && \
